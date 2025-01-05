@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente trabalho como Desenvolvedor Junior, utilizando principalmente PHP - Laravel, MySQL e Jquery.<br>Tenho focado em me especializar mais em React, Typescript e PostgreSQL.<br>Além disso, estou criando uma SaaS que permitirá que qualquer pessoa consiga gerenciar suas finanças de forma simples e mais eficiente.<br>
+Especializado em criar soluções inovadoras para gestão financeira, ERP, e sistemas web personalizados. Com uma paixão por tecnologia e um olhar atento para detalhes, transformo ideias em realidade digital.<br>
 
 
 ## 🌐 Socials:
